@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="floor4.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floor40000" x="0" y="0" width="359" height="168"/>
+	<SubTexture name="floor40001" x="0" y="168" width="359" height="168"/>
+	<SubTexture name="floor40002" x="0" y="336" width="359" height="168"/>
+	<SubTexture name="floor40003" x="0" y="504" width="359" height="168"/>
+</TextureAtlas>

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-410
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fleetwayidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				-447
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fleetright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-407
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fleet up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-426
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fleetleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-491
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fleetdown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-105,
+				-420
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "annoyed idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-105,
+				-420
+			],
+			"anim": "idle-alt-2",
+			"fps": 24,
+			"name": "ugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-407
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ISTG instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-137,
+				-447
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "upahgn instance "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-491
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				41,
+				-426
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "jghrue instance "
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hg",
+	"position": [
+		60,
+		-70
+	],
+	"healthicon": "papyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		-250,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

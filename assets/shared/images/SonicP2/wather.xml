@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wather.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wather0000" x="0" y="0" width="359" height="168"/>
+	<SubTexture name="wather0001" x="0" y="0" width="359" height="168"/>
+	<SubTexture name="wather0002" x="0" y="0" width="359" height="168"/>
+	<SubTexture name="wather0003" x="0" y="168" width="359" height="168"/>
+	<SubTexture name="wather0004" x="0" y="168" width="359" height="168"/>
+	<SubTexture name="wather0005" x="0" y="168" width="359" height="168"/>
+	<SubTexture name="wather0006" x="0" y="336" width="359" height="168"/>
+	<SubTexture name="wather0007" x="0" y="336" width="359" height="168"/>
+	<SubTexture name="wather0008" x="0" y="336" width="359" height="168"/>
+	<SubTexture name="wather0009" x="0" y="504" width="359" height="168"/>
+	<SubTexture name="wather0010" x="0" y="504" width="359" height="168"/>
+	<SubTexture name="wather0011" x="0" y="504" width="359" height="168"/>
+</TextureAtlas>

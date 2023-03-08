@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grassback2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grassback20000" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20001" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20002" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20003" x="359" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20004" x="359" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20005" x="359" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20006" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="grassback20007" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="grassback20008" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="grassback20009" x="359" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20010" x="359" y="0" width="359" height="220"/>
+	<SubTexture name="grassback20011" x="359" y="0" width="359" height="220"/>
+</TextureAtlas>

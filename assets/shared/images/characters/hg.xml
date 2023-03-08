@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hg.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annoyed idle" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0000" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0001" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0002" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0003" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0004" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0005" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0006" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0007" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0008" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0009" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0010" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0011" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0012" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleet up0013" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0000" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0001" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0002" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0003" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0004" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0005" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0006" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0007" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0008" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0009" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0010" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0011" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0012" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetdown0013" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="fleetleft0000" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0001" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0002" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0003" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0004" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0005" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0006" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0007" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0008" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0009" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0010" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0011" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0012" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetleft0013" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0000" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0001" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0002" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0003" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0004" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0005" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0006" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0007" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0008" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0009" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0010" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0011" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0012" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetright0013" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0000" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0001" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0002" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0003" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0004" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0005" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0006" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0007" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0008" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0009" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0010" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0011" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0012" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0013" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0014" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="fleetwayidle0015" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="ugh" x="200" y="200" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0000" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0001" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0002" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0003" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0004" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0005" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0006" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0007" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0008" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0009" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0010" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0011" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0012" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="ISTG instance 0013" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0000" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0001" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0002" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0003" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0004" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0005" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0006" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0007" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0008" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0009" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0010" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0011" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0012" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="SANS WAKE UP BITCH instance 0013" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0000" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0001" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0002" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0003" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0004" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0005" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0006" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0007" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0008" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0009" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0010" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0011" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0012" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="jghrue instance 0013" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0000" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0001" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0002" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0003" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0004" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0005" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0006" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0007" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0008" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0009" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0010" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0011" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0012" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="upahgn instance 0013" x="300" y="100" width="100" height="100"/>
+</TextureAtlas>

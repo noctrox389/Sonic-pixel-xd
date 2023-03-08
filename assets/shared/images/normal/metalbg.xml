@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metalbg.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="metalbg0000" x="0" y="0" width="359" height="168"/>
+	<SubTexture name="metalbg0001" x="0" y="0" width="359" height="168"/>
+	<SubTexture name="metalbg0002" x="0" y="0" width="359" height="168"/>
+	<SubTexture name="metalbg0003" x="359" y="0" width="359" height="168"/>
+	<SubTexture name="metalbg0004" x="359" y="0" width="359" height="168"/>
+	<SubTexture name="metalbg0005" x="359" y="0" width="359" height="168"/>
+	<SubTexture name="metalbg0006" x="0" y="168" width="359" height="168"/>
+	<SubTexture name="metalbg0007" x="0" y="168" width="359" height="168"/>
+	<SubTexture name="metalbg0008" x="0" y="168" width="359" height="168"/>
+	<SubTexture name="metalbg0009" x="359" y="168" width="359" height="168"/>
+	<SubTexture name="metalbg0010" x="359" y="168" width="359" height="168"/>
+	<SubTexture name="metalbg0011" x="359" y="168" width="359" height="168"/>
+	<SubTexture name="metalbg0012" x="0" y="336" width="359" height="168"/>
+	<SubTexture name="metalbg0013" x="0" y="336" width="359" height="168"/>
+	<SubTexture name="metalbg0014" x="0" y="336" width="359" height="168"/>
+	<SubTexture name="metalbg0015" x="359" y="336" width="359" height="168"/>
+	<SubTexture name="metalbg0016" x="359" y="336" width="359" height="168"/>
+	<SubTexture name="metalbg0017" x="359" y="336" width="359" height="168"/>
+	<SubTexture name="metalbg0018" x="0" y="504" width="359" height="168"/>
+	<SubTexture name="metalbg0019" x="0" y="504" width="359" height="168"/>
+	<SubTexture name="metalbg0020" x="0" y="504" width="359" height="168"/>
+	<SubTexture name="metalbg0021" x="359" y="504" width="359" height="168"/>
+	<SubTexture name="metalbg0022" x="359" y="504" width="359" height="168"/>
+	<SubTexture name="metalbg0023" x="359" y="504" width="359" height="168"/>
+</TextureAtlas>

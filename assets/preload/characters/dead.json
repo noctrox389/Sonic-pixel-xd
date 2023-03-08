@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				-354
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "sonic Sonic dies"
+		},
+		{
+			"offsets": [
+				-125,
+				-354
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "sonic Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				-354
+			],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "sonic death Confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dead",
+	"position": [
+		10,
+		160
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		100,
+		100,
+		255
+	],
+	"camera_position": [
+		520,
+		-315
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-310,
+				-270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "idle",
+			"fps": 36,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-300,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF LEFT MISS instance "
+		},
+		{
+			"offsets": [
+				-300,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF UP MISS instance "
+		},
+		{
+			"offsets": [
+				-300,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF RIGHT MISS instance "
+		},
+		{
+			"offsets": [
+				-310,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF DOWN MISS instance "
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/amy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "amy",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		134,
+		195
+	],
+	"camera_position": [
+		-90,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

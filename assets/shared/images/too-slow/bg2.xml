@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg2 0000" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="bg2 0001" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="bg2 0002" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="bg2 0003" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="bg2 0004" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="bg2 0005" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="bg2 0006" x="0" y="0" width="359" height="220"/>
+	<SubTexture name="bg2 0011" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="bg2 0012" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="bg2 0013" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="bg2 0014" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="bg2 0015" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="bg2 0016" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="bg2 0017" x="0" y="220" width="359" height="220"/>
+	<SubTexture name="bg2 0022" x="0" y="440" width="359" height="220"/>
+	<SubTexture name="bg2 0023" x="0" y="440" width="359" height="220"/>
+	<SubTexture name="bg2 0024" x="0" y="440" width="359" height="220"/>
+	<SubTexture name="bg2 0025" x="0" y="440" width="359" height="220"/>
+	<SubTexture name="bg2 0026" x="0" y="440" width="359" height="220"/>
+	<SubTexture name="bg2 0027" x="0" y="440" width="359" height="220"/>
+	<SubTexture name="bg2 0028" x="0" y="440" width="359" height="220"/>
+	<SubTexture name="bg2 0033" x="0" y="660" width="359" height="220"/>
+	<SubTexture name="bg2 0034" x="0" y="660" width="359" height="220"/>
+	<SubTexture name="bg2 0035" x="0" y="660" width="359" height="220"/>
+	<SubTexture name="bg2 0036" x="0" y="660" width="359" height="220"/>
+	<SubTexture name="bg2 0037" x="0" y="660" width="359" height="220"/>
+	<SubTexture name="bg2 0038" x="0" y="660" width="359" height="220"/>
+	<SubTexture name="bg2 0039" x="0" y="660" width="359" height="220"/>
+</TextureAtlas>

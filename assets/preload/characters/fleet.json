@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fleetwayidle"
+		},
+		{
+			"offsets": [
+				103,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fleetright"
+		},
+		{
+			"offsets": [
+				-20,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fleet up"
+		},
+		{
+			"offsets": [
+				79,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fleetleft"
+		},
+		{
+			"offsets": [
+				10,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fleetdown"
+		},
+		{
+			"offsets": [
+				-29,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "annoyed idle"
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt-2",
+			"indices": [],
+			"name": "ugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fleet",
+	"position": [
+		60,
+		-70
+	],
+	"healthicon": "papyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		20,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicexemad.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONICmadIDLE" x="0" y="0" width="90" height="60"/>
+	<SubTexture name="SONICmadRIGHT0000" x="0" y="60" width="70" height="60"/>
+	<SubTexture name="SONICmadRIGHT0001" x="0" y="60" width="70" height="60"/>
+	<SubTexture name="SONICmadRIGHT0002" x="0" y="60" width="70" height="60"/>
+	<SubTexture name="SONICmadRIGHT0003" x="0" y="120" width="70" height="60"/>
+	<SubTexture name="SONICmadRIGHT0004" x="0" y="120" width="70" height="60"/>
+	<SubTexture name="SONICmadRIGHT0005" x="0" y="120" width="70" height="60"/>
+</TextureAtlas>

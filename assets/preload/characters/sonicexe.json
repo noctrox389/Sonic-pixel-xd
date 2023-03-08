@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-550
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SONICmoveIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-550
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SONICmoveLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-550
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SONICmoveDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-550
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SONICmoveUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-550
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SONICmoveRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-550
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SONIClaugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-550
+			],
+			"anim": "im good",
+			"fps": 24,
+			"name": "gonna getcha BUDDY",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicexe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-160,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 10
+}

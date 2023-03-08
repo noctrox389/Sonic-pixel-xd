@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky20000" x="0" y="0" width="900" height="600"/>
+	<SubTexture name="sky20001" x="0" y="0" width="900" height="600"/>
+	<SubTexture name="sky20002" x="0" y="0" width="900" height="600"/>
+	<SubTexture name="sky20003" x="900" y="0" width="900" height="600"/>
+	<SubTexture name="sky20004" x="900" y="0" width="900" height="600"/>
+	<SubTexture name="sky20005" x="900" y="0" width="900" height="600"/>
+	<SubTexture name="sky20006" x="0" y="600" width="900" height="600"/>
+	<SubTexture name="sky20007" x="0" y="600" width="900" height="600"/>
+	<SubTexture name="sky20008" x="0" y="600" width="900" height="600"/>
+	<SubTexture name="sky20009" x="900" y="600" width="900" height="600"/>
+	<SubTexture name="sky20010" x="900" y="600" width="900" height="600"/>
+	<SubTexture name="sky20011" x="900" y="600" width="900" height="600"/>
+	<SubTexture name="sky20012" x="0" y="1200" width="900" height="600"/>
+	<SubTexture name="sky20013" x="0" y="1200" width="900" height="600"/>
+	<SubTexture name="sky20014" x="0" y="1200" width="900" height="600"/>
+	<SubTexture name="sky20015" x="900" y="1200" width="900" height="600"/>
+	<SubTexture name="sky20016" x="900" y="1200" width="900" height="600"/>
+	<SubTexture name="sky20017" x="900" y="1200" width="900" height="600"/>
+</TextureAtlas>

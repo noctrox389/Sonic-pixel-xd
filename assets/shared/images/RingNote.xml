@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RkjlkjingNotes.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="blue0001" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="blue0002" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="blue0003" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="blue0004" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="blue0005" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="blue0006" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="blue0007" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="blue hold end" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="blue hold piece" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="green0000" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="green0001" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="green0002" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="green0003" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="green0004" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="green0005" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="green0006" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="green0007" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="green hold end" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="green hold piece" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="purple0000" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="purple0001" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="purple0002" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="purple0003" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="purple0004" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="purple0005" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="purple0006" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="purple0007" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="purple end hold" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="purple hold piece" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="red0000" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="red0001" x="18" y="0" width="162" height="162"/>
+	<SubTexture name="red0002" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="red0003" x="180" y="0" width="162" height="162"/>
+	<SubTexture name="red0004" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="red0005" x="342" y="0" width="162" height="162"/>
+	<SubTexture name="red0006" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="red0007" x="0" y="162" width="162" height="162"/>
+	<SubTexture name="red hold end" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="red hold piece" x="0" y="0" width="18" height="18"/>
+	<SubTexture name="sparkle0000" x="162" y="162" width="162" height="162"/>
+	<SubTexture name="sparkle0001" x="162" y="162" width="162" height="162"/>
+	<SubTexture name="sparkle0002" x="324" y="162" width="162" height="162"/>
+	<SubTexture name="sparkle0003" x="324" y="162" width="162" height="162"/>
+	<SubTexture name="sparkle0004" x="0" y="324" width="162" height="162"/>
+	<SubTexture name="sparkle0005" x="0" y="324" width="162" height="162"/>
+	<SubTexture name="sparkle0006" x="162" y="324" width="162" height="162"/>
+	<SubTexture name="sparkle0007" x="162" y="324" width="162" height="162"/>
+	<SubTexture name="sparkle0008" x="324" y="324" width="162" height="162"/>
+	<SubTexture name="sparkle0009" x="324" y="324" width="162" height="162"/>
+	<SubTexture name="sparkle0010" x="0" y="486" width="162" height="162"/>
+	<SubTexture name="sparkle0011" x="0" y="486" width="162" height="162"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-223,
+				-267
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-300,
+				-266
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "intro",
+			"indices": [],
+			"name": "entrada"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-223,
+				-267
+			],
+			"anim": "singRIGHT",
+			"fps": 36,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/intro",
+	"position": [
+		-610,
+		320
+	],
+	"healthicon": "bf-encore",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-150,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-570
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-560
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-570
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-570
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-570
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-630
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-560
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "pre",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/eggman",
+	"position": [
+		0,
+		-610
+	],
+	"healthicon": "egg",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		252,
+		252
+	],
+	"camera_position": [
+		-310,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 10
+}

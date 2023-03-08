@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="su.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cereal 0000" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="cereal 0001" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="cereal 0002" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0003" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0004" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0005" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0006" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0007" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0008" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0009" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0010" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0011" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0012" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0013" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0014" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0015" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0016" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0017" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0018" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0019" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0020" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0021" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0022" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0023" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0024" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0025" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0026" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0027" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0028" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0029" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0030" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0031" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0032" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0033" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0034" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0035" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0036" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0037" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0038" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0039" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0040" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0041" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0042" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0043" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0044" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0045" x="0" y="0" width="200" height="200"/>	
+	<SubTexture name="cereal 0046" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0047" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0048" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0049" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0050" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0051" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0052" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0053" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0054" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="cereal 0055" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0000" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0001" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0002" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0003" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0004" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0005" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0006" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0007" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0008" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0009" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0010" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0011" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0012" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0013" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0014" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0015" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0016" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0017" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0018" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0019" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0020" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0021" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0022" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0023" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0024" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0025" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0026" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0027" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0028" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0029" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0030" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0031" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0032" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0033" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0034" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0035" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0036" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0037" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0038" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0039" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0040" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0041" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0042" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0043" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="no cereal 0044" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="no cereal 0045" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="nom0000" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="nom0001" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="nom0002" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="nom0003" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="nom0004" x="0" y="200" width="200" height="200"/>
+	<SubTexture name="nom0005" x="0" y="200" width="200" height="200"/>
+	<SubTexture name="nom0006" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0007" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0008" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0009" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0010" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0011" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0012" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0013" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0014" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0015" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0016" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0017" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0018" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0019" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0020" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0021" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0022" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0023" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0024" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0025" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0026" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0027" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0028" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0029" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0030" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0031" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0032" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0033" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0034" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0035" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0036" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0037" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0038" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0039" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0040" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0041" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0042" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0043" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0044" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0045" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0046" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0047" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0048" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0049" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0050" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0051" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0052" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0053" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0054" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0055" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0056" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0057" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0058" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0059" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0060" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0061" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0062" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0063" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0064" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0065" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0066" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0067" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0068" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0069" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0070" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0071" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0072" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0073" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0074" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0075" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0076" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0077" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0078" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0079" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0070" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0071" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0072" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0073" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0074" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0075" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0076" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0077" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0078" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0079" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0070" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0071" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0072" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0073" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0074" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0075" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0076" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0077" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0078" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0079" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0080" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0081" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0082" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0083" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0084" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0085" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0086" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0087" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0088" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0089" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0090" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0091" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0092" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0093" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0094" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0095" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0096" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0097" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0098" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0099" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0100" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0101" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0102" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0103" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0104" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0105" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0106" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0107" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0108" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0109" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0110" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0111" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0112" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0113" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0114" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0115" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0116" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0117" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0118" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0119" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0120" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0121" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0122" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0123" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0124" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0125" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="nom0126" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0127" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0128" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="nom0129" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0000" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0001" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0002" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0003" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0004" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0005" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0006" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0007" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0008" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0009" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0010" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0011" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0012" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky down0013" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="sunky idle0000" x="0" y="400" width="200" height="200"/>
+	<SubTexture name="sunky idle0001" x="0" y="400" width="200" height="200"/>
+	<SubTexture name="sunky idle0002" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="sunky idle0003" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="sunky idle0004" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0005" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0006" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0007" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0008" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0009" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0010" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0011" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0012" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky idle0013" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="sunky right0000" x="400" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0001" x="400" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0002" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0003" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0004" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0005" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0006" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0007" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0008" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0009" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0010" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0011" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0012" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky right0013" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="sunky up0000" x="800" y="400" width="200" height="200"/>
+	<SubTexture name="sunky up0001" x="800" y="400" width="200" height="200"/>
+	<SubTexture name="sunky up0002" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0003" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0004" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0005" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0006" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0007" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0008" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0009" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0010" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0011" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0012" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunky up0013" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0000" x="200" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0001" x="200" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0002" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0003" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0004" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0005" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0006" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0007" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0008" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0009" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0010" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0011" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0012" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="sunkyleft0013" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="wakey wakey0000" x="600" y="600" width="200" height="200"/>
+	<SubTexture name="wakey wakey0001" x="600" y="600" width="200" height="200"/>
+	<SubTexture name="wakey wakey0002" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="wakey wakey0003" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="wakey wakey0004" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="wakey wakey0005" x="0" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0006" x="0" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0007" x="0" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0008" x="200" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0009" x="200" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0010" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0011" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0012" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="wakey wakey0013" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="xx0000" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="xx0001" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="xx0002" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="xx0003" x="400" y="800" width="200" height="200"/>
+	<SubTexture name="xx0004" x="600" y="800" width="200" height="200"/>
+	<SubTexture name="xx0005" x="600" y="800" width="200" height="200"/>
+	<SubTexture name="xx0006" x="600" y="800" width="200" height="200"/>
+	<SubTexture name="xx0007" x="600" y="800" width="200" height="200"/>
+	<SubTexture name="xx0008" x="800" y="800" width="200" height="200"/>
+	<SubTexture name="xx0009" x="800" y="800" width="200" height="200"/>
+	<SubTexture name="xx0010" x="800" y="800" width="200" height="200"/>
+	<SubTexture name="xx0011" x="800" y="800" width="200" height="200"/>
+	<SubTexture name="xx0012" x="0" y="1000" width="200" height="200"/>
+	<SubTexture name="xx0013" x="0" y="1000" width="200" height="200"/>
+	<SubTexture name="xx0014" x="200" y="1000" width="200" height="200"/>
+	<SubTexture name="xx0015" x="200" y="1000" width="200" height="200"/>
+	<SubTexture name="zzz" x="600" y="600" width="200" height="200"/>
+</TextureAtlas>

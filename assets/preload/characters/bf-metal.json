@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-270
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-270
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Metal_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Metal_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-270
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Metal_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-270
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Metal_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-270
+			],
+			"anim": "singDOWN",
+			"fps": 36,
+			"name": "Metal_DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-280,
+				-270
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Metal_UP"
+		},
+		{
+			"offsets": [
+				-280,
+				-270
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 36,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Metal_DOWN"
+		},
+		{
+			"offsets": [
+				-300,
+				-270
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Metal_LEFT"
+		},
+		{
+			"offsets": [
+				-300,
+				-270
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Metal_RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Metal",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "metal",
+	"flip_x": true,
+	"healthbar_colors": [
+		63,
+		114,
+		186
+	],
+	"camera_position": [
+		150,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

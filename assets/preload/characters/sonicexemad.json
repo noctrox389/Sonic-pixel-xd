@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-550
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SONICmadIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				-550
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SONICmadRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicexemad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-160,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 10
+}
